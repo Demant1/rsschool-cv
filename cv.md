@@ -82,7 +82,7 @@ modelTable.Style.Border.Top.Style = ExcelBorderStyle.Thin;
                             modelTable.Style.Border.Bottom.Style = ExcelBorderStyle.Thin;
                         }
                     }
-                    ExcelApp.Cells[dataGridView1.Rows.Count + 5, 1] = "Ведущий инженер по КИПиСА Долженков Е.С. __________________";
+                    ExcelApp.Cells[dataGridView1.Rows.Count + 5, 1] = "Ведущий инженер по КИПиСА Долженков Е.С. ______________";
                     ExcelApp.Cells[dataGridView1.Rows.Count + 5, 6] = DateTime.Today;
                     //Вызываем нашу созданную эксельку.
                     ExcelApp.Visible = true;
