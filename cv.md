@@ -98,4 +98,4 @@ modelTable.Style.Border.Top.Style = ExcelBorderStyle.Thin;
 How i say early, i haven't practic in Web programming 
 ![](https://i.yapx.ru/NPDcds.png)\
  Higher education, graduated from **The Belarusian-Russian University** with a degree in _Information Technology Engineer_.\
- ### My English Level = A2
+ **My English Level** = _A2_
