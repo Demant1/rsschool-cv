@@ -12,7 +12,8 @@ Brief information about me:
 
 I know **C #**, had experience with **SQL DB**.\
 This is a part of the code from a program I wrote for work (graph formation):
-```` if (radioButton1.Checked == true)
+```
+ if (radioButton1.Checked == true)
             {
                 try
                 {
@@ -93,7 +94,7 @@ modelTable.Style.Border.Top.Style = ExcelBorderStyle.Thin;
                     MessageBox.Show("Ошибка при составлении лога\n" + exc.Message);
                 }
             } 
-````
+```
 How i say early, i haven't practic in Web programming 
 ![](https://i.yapx.ru/NPDcds.png) 
  Higher education, graduated from **The Belarusian-Russian University** with a degree in _Information Technology Engineer_. \
